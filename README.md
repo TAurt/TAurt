@@ -11,5 +11,5 @@
 ![JUnit](https://img.shields.io/badge/-JUnit-60B585?style=for-the-badge&logo=junit)
 ![Maven](https://img.shields.io/badge/-Maven-60B585?style=for-the-badge&logo=maven)
 
-### Follow me:
+### My contact:
 [![Telegram](https://img.shields.io/badge/-Telegram-60B585?style=for-the-badge&logo=telegram)](https://t.me/TAurt84)
